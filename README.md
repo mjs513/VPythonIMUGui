@@ -13,4 +13,6 @@ Jose Julio @2009. Changes made were quite extensive and include:
       FreeIMU Demo Cube based in Processing
 
 To work out of the box you will also need the FreeIMU_serial.ino sketch for the Arduino otherwise
-you will need to modify the code to read and convert the serial stream from the Arduino
+you will need to modify the code to read and convert the serial stream from the Arduino.
+
+A youtube video is available here (http://youtu.be/pylMfUNIyHA) to see this in action.
